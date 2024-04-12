@@ -1,2 +1,2 @@
-# Xyn-Modules
-Here's a list of modules available for Xyn!
+# Xyn Modules
+The official Xyn module repo!
