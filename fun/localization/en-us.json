@@ -1,0 +1,24 @@
+{
+    "confession_title_label":"Title",
+    "confession_title_placeholder":"A nice eye-catching title",
+
+    "confession_label":"Confession",
+    "confession_placeholder":"Your confession...",
+
+    "confession_embed_title":"Confession #{confession} {title}",
+    "confession_sent":"Confession posted successfully",
+
+    "diceroll_embed_description":"has rolled a **{dice}!**",
+
+    "coinflip_embed_title":"{user} has flipped **{result}!**",
+    "coinflip_heads":"heads",
+    "coinflip_tails":"tails",
+
+    "persona_no_username":"You need to provide an username at least once to use this command!",
+    "love_none":"Please make sure to give names for the arguments `person1` and `person2`, or specify users for the arguments `user1` and `user2`!",
+    
+    "image_gen_error":"An error occurred trying to generate this image :c",
+    "starboard_setup":"Starboard was setup successfully!",
+
+    "loaded":"fun.py was loaded!"
+}
