@@ -21,7 +21,7 @@ Keep in mind setting it's value to `False` disables the module.
 
 ```python
 modules = {
-    "sumothermodule":True,
+    "sumothermodule":False,  # no fun allowed
     "fun":True
   }
 ```
